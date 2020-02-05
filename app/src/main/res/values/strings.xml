@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GolfScoreCard</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_clear_strokes">Clear Strokes</string>
+</resources>
